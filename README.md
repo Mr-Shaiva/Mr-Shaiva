@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Mr-Shaiva
+- 👋 Hi, I’m AKASH B R
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning basics of programming
-- 💞️ I’m looking to collaborate on ....
+- 🌱 I’m currently working on Data Structures and Algorithm
+- 💞️ I’m looking to collaborate on coding stuffs
 - 📫 Reach me @shaivaakash1@gmail.com
 
 
