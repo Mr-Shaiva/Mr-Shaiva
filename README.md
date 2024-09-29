@@ -1,11 +1,8 @@
-- 👋 Hi, I’m AKASH B R
-- 👀 I’m interested in coding
-- 🌱 I’m currently working on Data Structures and Algorithm
-- 💞️ I’m looking to collaborate on coding stuffs
-- 📫 Reach me @shaivaakash1@gmail.com
+👋 Hi, I’m AKASH B R
 
+I am currently a Senior Software Engineer at Ribbon Communications (since August 2021), passionate about building robust software solutions.
 
-<!---
-Mr-Shaiva/Mr-Shaiva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I’m deeply interested in coding, exploring new technologies, and enhancing my problem-solving skills.
+🌱 I’m currently focused on improving my expertise in Data Structures and Algorithms.
+💞️ I’m open to collaborating on coding projects, especially those involving complex algorithms, system design, and optimization.
+📫 You can reach me at shaivaakash1@gmail.com.
